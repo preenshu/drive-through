@@ -9,4 +9,6 @@ This application is built to help us out for the following tasks:
 6. writing : ideas and stories. 
 7. pictures : to prepare albums. 
 8. tech : tech links and blogs. 
-9. customized grid for the above topics. 
+9. customized grid for the above topics.
+10.
+11.
